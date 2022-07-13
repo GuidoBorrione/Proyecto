@@ -1,11 +1,8 @@
-var mensaje = "Hola mundo";
-mensaje = "Hola mundo 2";
-
 //operadores
 num1 = 25
 num2 = 25;
 
-//El resultado de la suma es
+// El resultado de la suma es
 mensaje = (`El resultado de la suma es:  ${(num1 + num2)}`);
 document.write(`<h1>${mensaje}</h1>`);
 
@@ -25,6 +22,7 @@ num6 = 10;
 mensaje = (`El resultado de la multiplicación es:  ${(num5 * num6)}`);
 document.write(`<h1>${mensaje}</h1>`);
 
+// cuartos operadores
 num7 = 5;
 num8 = 2;
 
@@ -32,6 +30,7 @@ num8 = 2;
 mensaje = (`El resultado de la división real es:  ${(num7 / num8)}`);
 document.write(`<h1>${mensaje}</h1>`);
 
+// quintos operadores
 num9 = 25 ;
 num10 = 5;
 
